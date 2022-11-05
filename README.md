@@ -80,9 +80,11 @@ Buat program sederhana dengan input tiga buah bilangan,dari ketiga bilangan ters
 ![gambar1](gambar/GAMBAR21A.png)
 
 Setelah melakukan perintah di atas masukan lah bilangan dari yang terbesar hingga terkecil maka akan ada hasil yang terbesar yang mana
+
 ![gambar1](gambar/GAMBAR20A.png)
 
 # flowchart lab 2 praktikum 2
+
 ![gambar1](gambar/GAMBAR20A.png)
 
 - Kita akan mencari nilai terbesar dari ketiga variabel tersebut Menentukan 3 varibel Eskpresikan dengan memasukan inputan Lalu kita akan melihat perbedaan bilangan terbesar antara ketiga nilai variabel Ekspresikan dengan membuat satu statemenet di variabel 
@@ -116,6 +118,8 @@ Memasukan nilai terbesar atau jumlah
 ## pemrograman 1
 
 # Flowchart latihan 3
+
+![gambar1](gambar/GAMBAR13A.png)
 
 ### - Jumlah total laba dari bulan 1 sampai 8
 
