@@ -85,23 +85,26 @@ Setelah melakukan perintah di atas masukan lah bilangan dari yang terbesar hingg
 
 # flowchart lab 2 praktikum 2
 
-![gambar1](gambar/GAMBAR20A.png)
+![gambar1](gambar/flowchartlab2.png)
 
 - Kita akan mencari nilai terbesar dari ketiga variabel tersebut Menentukan 3 varibel Eskpresikan dengan memasukan inputan Lalu kita akan melihat perbedaan bilangan terbesar antara ketiga nilai variabel Ekspresikan dengan membuat satu statemenet di variabel 
 
 # lab 3
 ## latihan1 
 
-![gambar1](gambar/GAMBAR20A.png)
+# flowchart latihan 1
+
+![gambar1](gambar/flowchartlatihan1.png)
 
 - pertama kita akan deklarasi dan juga beri inputan ke variabel menggunakan variabel nlalu import random dengan memberi nilai secara acak  memberi batasan dengan variabel baru jumlah nya aalah 5membuat kondisi dengan menggunakan if ekspresikan hasil yang kita buat
 ![gambar1](gambar/GAMBAR8A.png)
 ![gambar1](gambar/GAMBAR9A.png)
 
+
 ## Latihan 2
 # Flowchart latihan 2 
 
-![gambar1](gambar/GAMBAR20A.png)
+![gambar1](gambar/flowchartlatihan2.png)
 
 
 Pertama tama masukn max = 0
@@ -119,7 +122,7 @@ Memasukan nilai terbesar atau jumlah
 
 # Flowchart latihan 3
 
-![gambar1](gambar/GAMBAR13A.png)
+![gambar1](gambar/flowchartlatihan3.png)
 
 ### - Jumlah total laba dari bulan 1 sampai 8
 
