@@ -82,7 +82,7 @@ Lalu lakukan perintah ("print bilangan terbesar = :")
 
 ![gambar1](gambar/GAMBAR20A.png)
 
-# flowchart lab 2 praktikum 2
+# flowchart lab 2 
 
 ![gambar1](gambar/flowchartlab2a.png)
 
