@@ -91,7 +91,8 @@ Lalu lakukan perintah ("print bilangan terbesar = :")
 # lab 3
 ## latihan 1 
 
-- pertama kita akan deklarasi dan juga beri inputan ke variabel menggunakan variabel nlalu import random dengan memberi nilai secara acak  memberi batasan dengan variabel baru jumlah nya aalah 5membuat kondisi dengan menggunakan if ekspresikan hasil yang kita buat
+- pertama kita akan deklarasi dan juga beri inputan ke variabel menggunakan variabel lalu import random dengan memberi nilai secara acak  memberi batasan dengan variabel baru jumlah nya adalah 5 membuat kondisi dengan menggunakan if ekspresikan hasil yang kita buat
+
 ![gambar1](gambar/GAMBAR8A.png)
 ![gambar1](gambar/GAMBAR9A.png)
 
