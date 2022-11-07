@@ -86,7 +86,7 @@ Lalu lakukan perintah ("print bilangan terbesar = :")
 
 ![gambar1](gambar/flowchartlab2a.png)
 
-- Kita akan mencari nilai terbesar dari ketiga variabel tersebut Menentukan 3 varibel Eskpresikan dengan memasukan inputan Lalu kita akan melihat perbedaan bilangan terbesar antara ketiga nilai variabel Ekspresikan dengan membuat satu statemenet di variabel 
+- Kita akan mencari nilai terbesar dari ketiga variabel tersebut menentukan 3 varibel eskpresikan dengan memasukan inputan lalu kita akan melihat perbedaan bilangan terbesar antara ketiga nilai variabel ekspresikan dengan membuat satu statemenet di variabel 
 
 # lab 3
 ## latihan 1 
@@ -102,7 +102,7 @@ Lalu lakukan perintah ("print bilangan terbesar = :")
 
 ## Latihan 2
 
-- Pertama tama masukn max = 0
+- Pertama tama masukan max = 0
 
 - Fungsi nya adalah untuk mengetahui nilai terbesar nya yang mana lalu enter kemudian tambahkan perintah while true  : setelah itu enter pastikan spasi dua kali x int (input("masukan bilangan :")) lalu if max <x: 
 Kemudian pastikan sejajar dengan x masukan perintah max = x kemudian enter masukan perintah if x == 0: kemudian berikan spasi agar tidak sama dengan if masukan break untuk menghentikan adanya perulangan  
