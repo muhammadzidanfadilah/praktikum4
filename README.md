@@ -89,7 +89,7 @@ Lalu lakukan perintah ("print bilangan terbesar = :")
 - Kita akan mencari nilai terbesar dari ketiga variabel tersebut Menentukan 3 varibel Eskpresikan dengan memasukan inputan Lalu kita akan melihat perbedaan bilangan terbesar antara ketiga nilai variabel Ekspresikan dengan membuat satu statemenet di variabel 
 
 # lab 3
-## latihan1 
+## latihan 1 
 
 - pertama kita akan deklarasi dan juga beri inputan ke variabel menggunakan variabel nlalu import random dengan memberi nilai secara acak  memberi batasan dengan variabel baru jumlah nya aalah 5membuat kondisi dengan menggunakan if ekspresikan hasil yang kita buat
 ![gambar1](gambar/GAMBAR8A.png)
