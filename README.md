@@ -119,6 +119,8 @@ Kemudian pastikan sejajar dengan x masukan perintah max = x kemudian enter masuk
 
 ## pemrograman 1
 
+# latihan 3
+
 ### - Jumlah total laba dari bulan 1 sampai 8
 
 - Masukan nilai a = 100000000 kemudian masukan perintah for x in range ( 1,9) supaya ada 9 buah bulan pertama dan kedua laba hasil nya 0% bulan kedua ketiga hasil nya 1% bulan keempat sampai ketujuh naik sebelum nya 4% menjadi 5% bulan kedelapan 3% menurun 
