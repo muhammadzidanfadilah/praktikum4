@@ -86,7 +86,7 @@ Lalu lakukan perintah ("print bilangan terbesar = :")
 
 ![gambar1](gambar/flowchartlab2a.png)
 
-- Kita akan mencari nilai terbesar dari ketiga variabel tersebut menentukan 3 varibel eskpresikan dengan memasukan inputan lalu kita akan melihat perbedaan bilangan terbesar antara ketiga nilai variabel ekspresikan dengan membuat satu statemenet di variabel 
+- Kita akan mencari nilai terbesar dari ketiga variabel tersebut menentukan 3 varibel eskpresikan dengan memasukan inputan lalu kita akan melihat perbedaan bilangan terbesar antara ketiga nilai variabel ekspresikan dengan membuat satu statement di variabel 
 
 # lab 3
 ## latihan 1 
