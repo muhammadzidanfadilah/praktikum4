@@ -80,7 +80,7 @@ Lalu lakukan perintah ("print bilangan terbesar = :")
 
 - Setelah melakukan perintah di atas masukan lah bilangan dari yang terbesar hingga terkecil maka akan ada hasil yang terbesar yang mana
 
-![gambar1](gambar/GAMBAR20A.png)
+![gambar1](gambar/GAMBAR20B.png)
 
 # flowchart lab 2 
 
