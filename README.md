@@ -9,7 +9,7 @@
 
 ![gambar1](gambar/GAMBAR1A.png)
 
-- Setelah itu kita enter,kemudian masukan if untuk menjalankan program yang sebelumnya lalu tambah kan a > b: 
+- Setelah itu kita enter, kemudian masukan if untuk menjalankan program yang sebelumnya lalu tambah kan a > b: 
 Lalu lakukan perintah ("print bilangan terbesar = :")
 
 - Selanjutnya tambah kan else untuk menambah kan aksi untuk menentukan mana yang lebih besar antara a dan b
@@ -31,7 +31,7 @@ Lalu lakukan perintah ("print bilangan terbesar = :")
 
 ![gambar1](gambar/GAMBAR4A.png)
 
-- Lalu tambah kan if dan yang lainya agar seperti gambar di bawah ini 
+- Lalu tambahkan if dan yang lainya agar seperti gambar di bawah ini 
 
 ![gambar1](gambar/GAMBAR16A.png)
 
@@ -48,12 +48,12 @@ Lalu lakukan perintah ("print bilangan terbesar = :")
 
 ### -  mengurutkan angka 
 
-- Kita mulai lagi dengan codingan seperti di bawah ini dengan for i range (0,10)
+- Kita mulai lagi dengan codingan seperti di bawah ini dengan for i range (0, 10)
 
 ![gambar1](gambar/GAMBAR18A.png)
 
 
-- Masukan for i range 0,10 supaya mendapat kan angka 1 sampai 10 lalu gabungkan i + j kemudin print untuk menghasilkan kan running gambar di bawah ini
+- Masukan for i range (0, 10) lalu kemudian product =  i + j kemudin print untuk menghasilkan kan running gambar di bawah ini
 
 ![gambar1](gambar/GAMBAR19A.png)
 
@@ -124,7 +124,7 @@ Kemudian pastikan sejajar dengan x masukan perintah max = x kemudian enter masuk
 
 ### - Jumlah total laba dari bulan 1 sampai 8
 
-- Masukan nilai a = 100000000 kemudian masukan perintah for x in range (1,9) bulan pertama dan kedua laba hasil nya 0% bulan kedua ketiga hasil nya 1% bulan keempat sampai ketujuh naik sebelum nya 4% menjadi 5% bulan kedelapan 3% menurun 
+- Masukan nilai a = 100000000 kemudian masukan perintah for x in range (1, 9) bulan pertama dan kedua laba hasil nya 0% bulan kedua ketiga hasil nya 1% bulan keempat sampai ketujuh naik sebelum nya 4% menjadi 5% bulan kedelapan 3% menurun 
 
 ![gambar1](gambar/GAMBAR14A.png)
 
