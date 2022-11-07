@@ -74,7 +74,7 @@ Lalu lakukan perintah ("print bilangan terbesar = :")
 
 ### - Mencari bilangan terbesar
 
-- Buat program sederhana dengan input tiga buah bilangan,dari ketiga bilangan tersebut menggunakan if
+- Buat program sederhana dengan input tiga buah bilangan, dari ketiga bilangan tersebut menggunakan if
 
 ![gambar1](gambar/GAMBAR21A.png)
 
