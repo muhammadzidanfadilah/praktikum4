@@ -104,7 +104,7 @@ Lalu lakukan perintah ("print bilangan terbesar = :")
 
 - Pertama kita masukan max = 0
 
-- Fungsi nya adalah untuk mengetahui nilai terbesar nya yang mana lalu enter kemudian tambahkan perintah while true  : setelah itu enter pastikan spasi dua kali x int (input("masukan bilangan :")) lalu if max <x: 
+- Fungsi nya adalah untuk mengetahui nilai terbesar nya yang mana lalu enter kemudian tambahkan perintah while true  : setelah itu enter pastikan spasi dua kali int (input("masukan bilangan :")) lalu if max <x: 
 Kemudian pastikan sejajar dengan x masukan perintah max = x kemudian enter masukan perintah if x == 0: kemudian berikan spasi agar tidak sama dengan if masukan break untuk menghentikan adanya perulangan  
 
  ![gambar1](gambar/GAMBAR12A.png)
