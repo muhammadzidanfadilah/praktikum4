@@ -70,7 +70,7 @@ Lalu lakukan perintah ("print bilangan terbesar = :")
 ![gambar1](gambar/GAMBAR9A.png)
 
 # lab2
-## Tugas praktikum 3
+## Tugas praktikum 2
 
 ### - Mencari bilangan terbesar
 
