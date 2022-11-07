@@ -69,7 +69,7 @@ Lalu lakukan perintah ("print bilangan terbesar = :")
 
 ![gambar1](gambar/GAMBAR9A.png)
 
-# lab2
+# lab 2
 ## Tugas praktikum 2
 
 ### - Mencari bilangan terbesar
