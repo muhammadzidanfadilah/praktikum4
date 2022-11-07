@@ -91,20 +91,15 @@ Lalu lakukan perintah ("print bilangan terbesar = :")
 # lab 3
 ## latihan1 
 
-# flowchart latihan 1
-
-![gambar1](gambar/flowchartlatihan1a.png)
-
 - pertama kita akan deklarasi dan juga beri inputan ke variabel menggunakan variabel nlalu import random dengan memberi nilai secara acak  memberi batasan dengan variabel baru jumlah nya aalah 5membuat kondisi dengan menggunakan if ekspresikan hasil yang kita buat
 ![gambar1](gambar/GAMBAR8A.png)
 ![gambar1](gambar/GAMBAR9A.png)
 
+# flowchart latihan 1
+
+![gambar1](gambar/flowchartlatihan1a.png)
 
 ## Latihan 2
-# Flowchart latihan 2 
-
-![gambar1](gambar/flowchartlatihan2.png)
-
 
 - Pertama tama masukn max = 0
 
@@ -117,11 +112,12 @@ Kemudian pastikan sejajar dengan x masukan perintah max = x kemudian enter masuk
 
 ![gambar1](gambar/GAMBAR13A.png)
 
+# Flowchart latihan 2 
+
+![gambar1](gambar/flowchartlatihan2.png)
+
+
 ## pemrograman 1
-
-# Flowchart latihan 3
-
-![gambar1](gambar/flowchartlatihan3a.png)
 
 ### - Jumlah total laba dari bulan 1 sampai 8
 
@@ -132,4 +128,8 @@ Kemudian pastikan sejajar dengan x masukan perintah max = x kemudian enter masuk
 - Maka hasil nya akan keluar seperti gambar runnning di bawah ini dari data bulan 1 sampai dengan bulan ke 8 beserta hasil nya 
 
 ![gambar1](gambar/GAMBAR15A.png)
+
+# Flowchart latihan 3
+
+![gambar1](gambar/flowchartlatihan3a.png)
 
